@@ -1,0 +1,19 @@
+{
+  "homepage": "https://dchathuranga.github.io/infinite-scroll",
+  "name": "infinite-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchathuranga/infinite-scroll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dchathuranga/infinite-scroll/issues"
+  }
+}
